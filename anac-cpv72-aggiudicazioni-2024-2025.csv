@@ -1,0 +1,13 @@
+gruppo,anno_pubblicazione_cig,n_contratti,q1_eur,mediana_eur,q3_eur,p10_eur,p90_eur
+CPV 72* totale,2024,34765,8150,16458,41000,5629,135562
+CPV 72* totale,2025,64105,7721,15000,37200,5550,110804
+72212 – servizi di sviluppo di software applicativi,2024,1764,8200,17175,41618,5500,122847
+72212 – servizi di sviluppo di software applicativi,2025,3261,8125,16452,39080,5664,102481
+"72260-72268 – servizi connessi al software (sviluppo, assistenza, manutenzione, ...)",2024,7826,8101,15439,35025,5660,94522
+"72260-72268 – servizi connessi al software (sviluppo, assistenza, manutenzione, ...)",2025,16279,7560,14436,33442,5618,89552
+72262 – servizi di sviluppo di software,2024,264,13675,39775,165857,8000,989041
+72262 – servizi di sviluppo di software,2025,601,11700,36000,130000,7000,636403
+72267 – servizi di manutenzione e riparazione di software,2024,3324,8100,14820,31500,5702,73419
+72267 – servizi di manutenzione e riparazione di software,2025,6306,8197,15000,32636,5853,72482
+"Sottoinsieme conservativo: affidamenti diretti <=140.000 €, parole chiave sviluppo+software, esclusi manutenzione/PNRR/adesioni (filtro nostro)",2024,659,9900,19500,46925,6531,106270
+"Sottoinsieme conservativo: affidamenti diretti <=140.000 €, parole chiave sviluppo+software, esclusi manutenzione/PNRR/adesioni (filtro nostro)",2025,1154,9919,19420,39900,6350,90329

@@ -1,0 +1,9 @@
+# Dati grezzi ANAC e output pesanti (non pubblicare)
+data/
+*.zip
+out/contratti_cpv72_aggiudicati.csv
+out/risultati.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
